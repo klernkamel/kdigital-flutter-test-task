@@ -1,0 +1,4 @@
+#Tue Sep 24 17:33:45 MSK 2024
+base.0=/Users/macbook/codes/kdigital_flutter_test_task/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
